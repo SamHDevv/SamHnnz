@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Samuel
-#### FullStack Developer and Professional Twinfather
+#### FullStack Developer and Professional father of twins.
 ![FullStack Developer and Professional Twinfather](https://user-images.githubusercontent.com/74045391/113511297-74dcef00-955f-11eb-9963-ae7277b1e373.png)
 
 From very early on in my life, I started to fall in love with technology 😍 This love has helped me to develop a very good technological mindset , and given me the curiosity to learn more. 
@@ -17,7 +17,7 @@ Skills: Python 🐍 || React JS || Flask || API Rest || SQL || JavaScript || CSS
 - ⚡ Fun fact: You can always learn! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SamHnnz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuelhernandezl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samhernandez.eu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SamHnnz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][linkedin]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>][website]  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamHnnz)](https://github.com/anuraghazra/github-readme-stats)
 
